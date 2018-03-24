@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="TABLELevelTrophys" numRows="1" numCols="8" flags="" tableType="">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="2" readonly="0">0</column>
+        <column id="1" name="" type="2" readonly="0">0</column>
+        <column id="2" name="" type="2" readonly="0">0</column>
+        <column id="3" name="" type="2" readonly="0">0</column>
+        <column id="4" name="" type="1" readonly="0">1 level</column>
+        <column id="5" name="" type="1" readonly="0">2 bats</column>
+        <column id="6" name="" type="1" readonly="0">3 amulet</column>
+        <column id="7" name="" type="1" readonly="0">4 keys</column>
+    </columns>
+</table>
